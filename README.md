@@ -4,6 +4,7 @@
 
 * [NKCorpus](https://gitee.com/lidongwen1997/nkunlp-preprocessing) - 利用海量网络数据构建大型高质量中文数据集
 * [BELLE](https://github.com/LianjiaTech/BELLE/tree/main/data/10M) - 10M中文数据集
+* [MOSS](https://github.com/OpenLMLab/MOSS#%E6%95%B0%E6%8D%AE) - MOSS训练数据
 
 # Pre-trained LLM
 
