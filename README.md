@@ -11,10 +11,12 @@
 | ----- | ---- | ------------ | ----------- | ----- |
 | 鹏程.盘古α | 13B | Decoder | [Github](https://github.com/huawei-noah/Pretrained-Language-Model) | [Paper](https://arxiv.org/pdf/2104.12369.pdf) |
 | GLM | 130B | Decoder | [Github](https://github.com/THUDM/GLM-130B) | [Paper](https://arxiv.org/pdf/2210.02414.pdf) |
+| MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
 
 # Instruction finetuned LLM
 | Model | Size | Backbone | Repo/Chkpt | Paper | 
 | ----- | ---- | ------------ | ----------- | ----- |
 | Chinese-Vicuna | 7B | LlaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | |
 | BELLE | 7B, 13b | LlaMA | [Github](https://github.com/LianjiaTech/BELLE) |
+| ChatGLM-6B| 6B | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) |
 
