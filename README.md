@@ -7,7 +7,7 @@
 * [MOSS](https://github.com/OpenLMLab/MOSS#%E6%95%B0%E6%8D%AE) - MOSS训练数据
 * [Chinese Scientific Literature Dataset](https://github.com/ydli-ai/CSL) - A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
 * [CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020/) - 通过对Common Crawl的中文部分进行语料清洗，最终得到100GB的高质量中文预训练语料
-* [News Commentary v13](https://github.com/dbiir/UER-py/wiki/%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE)
+* [News Commentary v13](https://github.com/dbiir/UER-py/wiki/%E9%A2%84%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE) - News Commentary v13包括平行语料
 
 # Pre-trained LLM
 
@@ -18,9 +18,10 @@
 | MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
 
 # Instruction finetuned LLM
-| Model | Size | Backbone | Repo/Chkpt | Paper | 
+| Model | Owner | Backbone | Repo/Chkpt | Paper | 
 | ----- | ---- | ------------ | ----------- | ----- |
-| Chinese-Vicuna | 7B | LlaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | |
-| BELLE | 7B, 13b | LlaMA | [Github](https://github.com/LianjiaTech/BELLE) |
-| ChatGLM-6B| 6B | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) |
+| Chinese-Vicuna | [Facico](https://github.com/Facico) | LlaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | |
+| BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LlaMA | [Github](https://github.com/LianjiaTech/BELLE) |
+| ChatGLM-6B| [THUDM](https://github.com/THUDM) | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) |
+| Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LlaMA | [Github](https://github.com/CVI-SZU/Linly) |
 
