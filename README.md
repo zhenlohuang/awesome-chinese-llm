@@ -21,10 +21,11 @@
 # Instruction finetuned LLM
 | Model | Owner | Backbone | Repo/Chkpt | Release Date | 
 | ----- | ---- | ------------ | ----------- | ----- |
-| Chinese-Vicuna | [Facico](https://github.com/Facico) | LlaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | |
-| BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LlaMA | [Github](https://github.com/LianjiaTech/BELLE) | |
-| ChatGLM-6B| [THUDM](https://github.com/THUDM) | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) | |
-| Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LlaMA | [Github](https://github.com/CVI-SZU/Linly) | |
+| ChatGLM-6B| [THUDM](https://github.com/THUDM) | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) | 2023-03-16 |
+| Chinese-Vicuna | [Facico](https://github.com/Facico) | LLaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | 2023-03-23 |
+| BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LLaMA | [Github](https://github.com/LianjiaTech/BELLE) | 2023-03-26 |
+| Luotuo | 商汤科技&华中师范大学 | GLM-6B | [Github](https://github.com/LC1332/Luotuo-Chinese-LLM) | 2023-03-31|
 | Phoenix | 港中文(深圳) | BLOOMZ | [Github](https://github.com/FreedomIntelligence/LLMZoo) | 2023-04-28 |
-| Luotuo | 商汤科技&华中师范大学 | GLM-6B | [Github](https://github.com/LC1332/Luotuo-Chinese-LLM) |
+| Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LLaMA | [Github](https://github.com/CVI-SZU/Linly) | |
+
 
