@@ -19,10 +19,11 @@
 | MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
 
 # Instruction finetuned LLM
-| Model | Owner | Backbone | Repo/Chkpt | Paper | 
+| Model | Owner | Backbone | Repo/Chkpt | Release Date | 
 | ----- | ---- | ------------ | ----------- | ----- |
 | Chinese-Vicuna | [Facico](https://github.com/Facico) | LlaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | |
-| BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LlaMA | [Github](https://github.com/LianjiaTech/BELLE) |
-| ChatGLM-6B| [THUDM](https://github.com/THUDM) | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) |
-| Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LlaMA | [Github](https://github.com/CVI-SZU/Linly) |
+| BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LlaMA | [Github](https://github.com/LianjiaTech/BELLE) | |
+| ChatGLM-6B| [THUDM](https://github.com/THUDM) | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) | |
+| Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LlaMA | [Github](https://github.com/CVI-SZU/Linly) | |
+| Phoenix | 港中文(深圳) | BLOOMZ | [Github](https://github.com/FreedomIntelligence/LLMZoo) | 2023-04-28 |
 
