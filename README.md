@@ -27,6 +27,7 @@
 | Chinese-Vicuna | [Facico](https://github.com/Facico) | LLaMA | [Github](https://github.com/Facico/Chinese-Vicuna) | 2023-03-23 |
 | BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LLaMA | [Github](https://github.com/LianjiaTech/BELLE) | 2023-03-26 |
 | Luotuo | 商汤科技&华中师范大学 | GLM-6B | [Github](https://github.com/LC1332/Luotuo-Chinese-LLM) | 2023-03-31|
+| 本草[原名：华驼(HuaTuo)]: 基于中文医学知识的LLaMA微调模型 | LLaMA | [Github](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | 2023-03-31 |
 | Phoenix | 港中文(深圳) | BLOOMZ | [Github](https://github.com/FreedomIntelligence/LLMZoo) | 2023-04-28 |
 | Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LLaMA | [Github](https://github.com/CVI-SZU/Linly) | |
 | LaWGPT: 基于中文法律知识的大语言模型| | Chinese-LLaMA、ChatGLM|  [Github](https://github.com/pengxiao-song/LaWGPT) | 2023-05-13 |
