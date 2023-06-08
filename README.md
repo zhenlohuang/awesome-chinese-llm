@@ -11,6 +11,7 @@
 * [WuDaoCorpora Text文本预训练数据集](https://data.baai.ac.cn/details/WuDaoCorporaText) - 北京智源人工智能研究院（智源研究院）构建的大规模、高质量数据集
 * [MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集](https://github.com/esbatmop/MNBVC) - 对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
 * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。
+* [pretrain_zh](https://github.com/TigerResearch/TigerBot#%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE%E9%9B%86) - 中文开源预训练集 - 55G，包含中文书籍、中文互联网、中文百科
 
 # Pre-trained LLM
 
@@ -19,6 +20,7 @@
 | 鹏程.盘古α | 13B | Decoder | [Github](https://github.com/huawei-noah/Pretrained-Language-Model) | [Paper](https://arxiv.org/pdf/2104.12369.pdf) |
 | GLM | 130B | Decoder | [Github](https://github.com/THUDM/GLM-130B) | [Paper](https://arxiv.org/pdf/2210.02414.pdf) |
 | MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
+| TigerBot: A multi-language multi-task LLM| TigerBot-7B, TigerBot-7B-base，TigerBot-180B| | [Github](https://github.com/TigerResearch/TigerBot) |
 
 # Instruction finetuned LLM
 | Model | Owner | Backbone | Repo/Chkpt | Release Date | 
