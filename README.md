@@ -21,6 +21,7 @@
 | GLM | 130B | Decoder | [Github](https://github.com/THUDM/GLM-130B) | [Paper](https://arxiv.org/pdf/2210.02414.pdf) |
 | MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
 | TigerBot: A multi-language multi-task LLM| TigerBot-7B, TigerBot-7B-base，TigerBot-180B| | [Github](https://github.com/TigerResearch/TigerBot) |
+| baichuan-7B: A large-scale 7B pretraining language model developed by BaiChuan-Inc. | 7B | | [Github](https://github.com/baichuan-inc/baichuan-7B) |
 
 # Instruction finetuned LLM
 | Model | Owner | Backbone | Repo/Chkpt | Release Date | 
