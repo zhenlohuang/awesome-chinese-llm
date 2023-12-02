@@ -17,6 +17,7 @@
 * [千言](https://www.luge.ai/) - 百度联合中国计算机学会自然语言处理专委会、中国中文信息学会评测工作委员会共同发起的,由来自国内多家高校和企业的数据资源研发者共同建设的中文开源数据集。
 * [天池](https://tianchi.aliyun.com/dataset/) - 天池数据集是阿里集团对外开放的科研数据平台,由阿里巴巴集团业务团队和外部研究机构联合提供,覆盖了电商、娱乐、物流、医疗健康、交通、工业、自然科学、能源等十多个行业。
 * [清华大学NLP实验室开放数据集](http://thuocl.thunlp.org/) - 清华大学自然语言处理与社会人文计算实验室维护的中文自然语言处理共享平台，提供了大量的中文文本数据集，包括新闻、论坛、微博、问答等。
+* [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 
 
 # Pre-trained LLM
@@ -28,19 +29,5 @@
 | MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
 | TigerBot: A multi-language multi-task LLM| TigerBot-7B, TigerBot-7B-base，TigerBot-180B| | [Github](https://github.com/TigerResearch/TigerBot) |
 | baichuan-7B: A large-scale 7B pretraining language model developed by BaiChuan-Inc. | 7B | | [Github](https://github.com/baichuan-inc/baichuan-7B) |
-
-# Instruction finetuned LLM
-| Model | Owner | Backbone | Repo/Chkpt |
-| ----- | ---- | ------------ | ----------- |
-| ChatGLM-6B| [THUDM](https://github.com/THUDM) | GLM | [Github](https://github.com/THUDM/ChatGLM-6B) |
-| Chinese-Vicuna | [Facico](https://github.com/Facico) | LLaMA | [Github](https://github.com/Facico/Chinese-Vicuna) |
-| BELLE | [Ke Technologies](https://github.com/LianjiaTech) | LLaMA | [Github](https://github.com/LianjiaTech/BELLE) | 
-| Chinese-LLaMA-Alpaca | ymcui | LLaMA | [Github](https://github.com/LC1332/Luotuo-Chinese-LLM) |
-| Luotuo | 商汤科技&华中师范大学 | GLM-6B | [Github](https://github.com/ymcui/Chinese-LLaMA-Alpaca) |
-| 本草[原名：华驼(HuaTuo)]: 基于中文医学知识的LLaMA微调模型 | LLaMA | [Github](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese) | 
-| Phoenix | 港中文(深圳) | BLOOMZ | [Github](https://github.com/FreedomIntelligence/LLMZoo) |
-| Linly | [Computer Vision Institute, SZU](https://github.com/CVI-SZU) | LLaMA | [Github](https://github.com/CVI-SZU/Linly) |
-| LaWGPT: 基于中文法律知识的大语言模型| | Chinese-LLaMA、ChatGLM|  [Github](https://github.com/pengxiao-song/LaWGPT) |
-| ChatLaw: 中文法律大模型 | PKU | Ziya-LLaMA-13B-v1、Anima-33B | [Github](https://github.com/PKU-YuanGroup/ChatLaw) |
 
 
