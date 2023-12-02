@@ -18,6 +18,7 @@
 * [天池](https://tianchi.aliyun.com/dataset/) - 天池数据集是阿里集团对外开放的科研数据平台,由阿里巴巴集团业务团队和外部研究机构联合提供,覆盖了电商、娱乐、物流、医疗健康、交通、工业、自然科学、能源等十多个行业。
 * [清华大学NLP实验室开放数据集](http://thuocl.thunlp.org/) - 清华大学自然语言处理与社会人文计算实验室维护的中文自然语言处理共享平台，提供了大量的中文文本数据集，包括新闻、论坛、微博、问答等。
 * [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data)
+* [[COLING 2022] CSL](https://github.com/ydli-ai/CSL): A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
 
 
 # Pre-trained LLM
