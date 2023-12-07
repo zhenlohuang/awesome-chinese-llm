@@ -19,6 +19,7 @@
 * [清华大学NLP实验室开放数据集](http://thuocl.thunlp.org/) - 清华大学自然语言处理与社会人文计算实验室维护的中文自然语言处理共享平台，提供了大量的中文文本数据集，包括新闻、论坛、微博、问答等。
 * [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 * [[COLING 2022] CSL](https://github.com/ydli-ai/CSL): A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
+* [中文公开聊天语料库](https://github.com/codemayq/chinese-chatbot-corpus)
 
 
 # Pre-trained LLM
