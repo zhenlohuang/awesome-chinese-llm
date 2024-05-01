@@ -20,17 +20,16 @@
 * [中文医疗问答数据集](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 * [[COLING 2022] CSL](https://github.com/ydli-ai/CSL): A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
 * [中文公开聊天语料库](https://github.com/codemayq/chinese-chatbot-corpus)
+* [中医药古籍文本](https://github.com/xiaopangxia/TCM-Ancient-Books)
 
 
 # Pre-trained LLM
 
-| Model | Size | Architecture | Repo/Chkpt | Paper | 
-| ----- | ---- | ------------ | ----------- | ----- |
-| 鹏程.盘古α | 13B | Decoder | [Github](https://github.com/huawei-noah/Pretrained-Language-Model) | [Paper](https://arxiv.org/pdf/2104.12369.pdf) |
-| GLM | 130B | Decoder | [Github](https://github.com/THUDM/GLM-130B) | [Paper](https://arxiv.org/pdf/2210.02414.pdf) |
-| MOSS | | | [Github](https://github.com/OpenLMLab/MOSS) |
-| TigerBot: A multi-language multi-task LLM| TigerBot-7B, TigerBot-7B-base，TigerBot-180B| | [Github](https://github.com/TigerResearch/TigerBot) |
-| baichuan-7B: A large-scale 7B pretraining language model developed by BaiChuan-Inc. | 7B | | [Github](https://github.com/baichuan-inc/baichuan-7B) |
-| ChiMed-GPT | 13B | LLaMA | [Github](https://github.com/synlp/ChiMed-GPT) | [Paper](https://arxiv.org/abs/2311.06025) |
-
-
+| Model | Author | Repo/Chkpt | Paper | 
+| ----- | ---- | ----------- | ----- |
+| 鹏程.盘古α | Huawei | [Github](https://github.com/huawei-noah/Pretrained-Language-Model) | [Paper](https://arxiv.org/pdf/2104.12369.pdf) |
+| MOSS | FDU | [Github](https://github.com/OpenLMLab/MOSS) |
+| TigerBot | TigerResearch| [Github](https://github.com/TigerResearch/TigerBot) |
+| Qwen | Alibaba Cloud | [Github](https://github.com/QwenLM/Qwen) |  |
+| Baichuan2| Baichuan Intelligent Technology | [Github](https://github.com/baichuan-inc/Baichuan2) | | 
+| ChatGLM3| THUDM | [Github](https://github.com/THUDM/ChatGLM3) | | 
