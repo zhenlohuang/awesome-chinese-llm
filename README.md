@@ -21,6 +21,10 @@
 * [[COLING 2022] CSL](https://github.com/ydli-ai/CSL): A Large-scale Chinese Scientific Literature Dataset 中文科学文献数据集
 * [中文公开聊天语料库](https://github.com/codemayq/chinese-chatbot-corpus)
 * [中医药古籍文本](https://github.com/xiaopangxia/TCM-Ancient-Books)
+* [超大规模中文语料集](https://github.com/esbatmop/MNBVC): 超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
+
+Topics
+
 
 
 # Pre-trained LLM
